@@ -168,7 +168,7 @@ export class DataService {
           'MySql',
         ],
         link: 'https://github.com/WalidChrif/FunTravels',
-        image: '../../assets/images/funtravelslogo.png',
+        image: './assets/images/funtravelslogo.png',
       },
       {
         title: 'My Portfolio',
@@ -177,7 +177,7 @@ export class DataService {
           'A website that showcases my work, my projects, my skills, and experiences.',
         technologies: ['HTML5', 'CSS3', 'Bootstrap', 'Angular'],
         link: 'https://github.com/WalidChrif/walidchrif',
-        image: '../../assets/images/portfolioimgcopy.jpg',
+        image: './assets/images/portfolioimgcopy.jpg',
       },
       {
         title: 'ShopShop',
@@ -193,7 +193,7 @@ export class DataService {
           'MySql',
         ],
         link: 'https://github.com/WalidChrif/ShopShop',
-        image: '../../assets/images/shopshoplogocopy.png',
+        image: './assets/images/shopshoplogocopy.png',
       },
     ],
   };
