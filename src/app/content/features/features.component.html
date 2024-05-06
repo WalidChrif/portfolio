@@ -1,0 +1,26 @@
+<div id="fh5co-features" class="animate-box">
+    <div class="container">
+        <div class="services-padding">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+                    <h2>My Services</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 text-center" *ngFor="let serv of services; let i = index">
+                    <div class="feature-left">
+                        <span class="icon">
+                            <i class="icon-desktop" *ngIf="i === 0"></i>
+                            <i class="icon-gears" *ngIf="i === 1"></i>
+                            <i class="icon-database" *ngIf="i === 2"></i>
+                        </span>
+                        <div class="feature-copy" >
+                            <h3>{{serv.name}}</h3>
+                            <p>{{serv.details}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
