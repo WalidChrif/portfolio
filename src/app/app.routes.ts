@@ -41,6 +41,6 @@ export const routes: Routes = [{
     canActivate: [RedirectGuard],
     component: RedirectGuard,
     data: {
-      externalUrl: '//www.github.com/WalidChrif/myportfolio'
+      externalUrl: '//www.github.com/WalidChrif/portfolio'
     }}
   ];
