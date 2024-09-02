@@ -129,6 +129,7 @@ export class DataService {
       { name: 'HTML5', percentage: 95 },
       { name: 'CSS3', percentage: 85 },
       { name: 'Bootstrap', percentage: 95 },
+      { name: 'Tailwind', percentage: 95 },
       { name: 'Spring AOP', percentage: 95 },
       { name: 'Spring DATA', percentage: 95 },
       { name: 'Spring Batch', percentage: 90 },
@@ -138,7 +139,8 @@ export class DataService {
       { name: 'Kafka', percentage: 80 },
       { name: 'RabbitMQ', percentage: 90 },
       { name: 'Docker', percentage: 95 },
-      { name: 'Kubernetes', percentage: 90 },
+      { name: 'Kubernetes', percentage: 80 },
+      // { name: 'Zipkin', percentage: 90 },
     ],
     projects: [
       {
