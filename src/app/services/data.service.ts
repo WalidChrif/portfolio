@@ -30,18 +30,6 @@ export class DataService {
     ],
     experiences: [
       {
-        position: 'Web developer - Internship',
-        company: 'SHSOFT',
-        startDate: dateFormatter(new Date(2023, 10 - 1)),
-        endDate: dateFormatter(new Date(2024, 2 - 1)),
-        location: 'Casablanca',
-        tasks: [
-          ' Design and creation of an E-commerce web application for musical accessories' +
-            '(HTML5,CSS3, Bootstrap, Angular, SpringBoot, MySql).',
-        ],
-        link: 'https://github.com/WalidChrif/ShopShop',
-      },
-      {
         position: 'Content Moderator',
         company: 'Majorel',
         startDate: dateFormatter(new Date(2022, 9 - 1)),
