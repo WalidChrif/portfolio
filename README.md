@@ -36,14 +36,14 @@ Check out the live portfolio: [walidchrif.github.io/portfolio](https://walidchri
 ### 1. Fun Travels  
 A vacation management platform built using **Angular** and **Spring Boot** to provide a smooth booking experience.
 
-![Fun Travels](./portfolio-screenshot-5.jpeg)
+![Fun Travels](https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/funtravelslogo.png)
 
 ---
 
 ### 2. SHop Shop  
 An e-commerce platform with a sleek user interface and shopping cart functionality.
 
-![Shop Shop](./portfolio-screenshot-4.jpeg)
+![Shop Shop](https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/shopshoplogo.png)
 
 ---
 
