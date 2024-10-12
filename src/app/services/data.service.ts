@@ -180,7 +180,7 @@ export class DataService {
           'MySql',
         ],
         link: 'https://github.com/WalidChrif/ShopShop',
-        image: './assets/images/shopshoplogoresized.png',
+        image: './assets/images/shopshoplogoresized.jpg',
       },
     ],
   };
