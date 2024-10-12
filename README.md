@@ -2,8 +2,6 @@
 
 Welcome to my personal portfolio! This project showcases my journey as a **Full Stack Developer**, highlighting my education, skills, and projects. 
 
-![Portfolio Header](./portfolio-screenshot-1.jpeg)
-
 ## 🔗 Live Demo
 Check out the live portfolio: [walidchrif.github.io/portfolio](https://walidchrif.github.io/portfolio/)
 
@@ -64,7 +62,11 @@ This portfolio itself, showcasing all my projects and educational achievements.
 
 Feel free to explore my portfolio and reach out to me for collaboration or project inquiries!
 
----
+###Screenshots
+![alt text](http://url/to/img.png)
+
+
+--
 
 ### 💡 How to Use Locally
 1. Clone the repository:
