@@ -1,12 +1,11 @@
 import { Injectable } from '@angular/core';
 import { Person } from '../models/person.model';
-import { dateFormatter } from '../utils/dateformatter'
+import { dateFormatter } from '../utils/dateformatter';
 
 @Injectable({
   providedIn: 'root',
 })
 export class DataService {
-
   walid: Person = {
     fullName: 'Walid Chrif',
     title: 'FullStack Developer',
@@ -15,11 +14,10 @@ export class DataService {
     website: '',
     address: 'Lotissemnt Al Hamd Rue 01 Nr 36 Sidi Moumen, Casablanca',
     profileDescription:
-      'I am a junior Full Stack Developer with proven expertise in Angular for ' +
-      'front-end and Spring for back-end. Successfully led the development of a real estate and vacation ' +
-      'platform, and an E-commerce website, showcasing my ability to navigate the entire process from ' +
-      'conception to  completion. Committed to continuous skill development, I actively seek professional ' +
-      'experiences to amplify my proficiency and broaden my industry knowledge.',
+      'A motivated Angular and Spring Boot developer, recently graduated with a solid foundation in full-stack development. ' +
+      'Despite being a recent graduate, I have demonstrated strong expertise through hands-on projects, showcasing my ability ' +
+      'to build scalable, efficient web applications. Passionate about coding, I am eager to contribute my skills to innovative ' +
+      'development teams and take on new challenges in software engineering.',
     links: [
       { name: 'GitHub', url: '//www.github.com/WalidChrif' },
       { name: 'LinkedIn', url: '//www.linkedin.com/in/walid-chrif' },
@@ -33,7 +31,7 @@ export class DataService {
         position: 'Content Moderator',
         company: 'Majorel',
         startDate: dateFormatter(new Date(2022, 9 - 1)),
-        endDate: dateFormatter(new Date(2023, 7 - 1 )),
+        endDate: dateFormatter(new Date(2023, 7 - 1)),
         location: 'Casablanca',
         tasks: [
           'Review user content.',
@@ -60,7 +58,7 @@ export class DataService {
         diploma: 'Professional Licence',
         major: 'Java/JEE',
         school: 'FST Settat',
-        graduationDate: dateFormatter(new Date(2023, 7 - 1,)),
+        graduationDate: dateFormatter(new Date(2023, 7 - 1)),
         tasks: [
           'Design and development of a real estate and vacation' +
             'management platform (HTML5, CSS3, Angular, Angular Material,' +
@@ -133,7 +131,7 @@ export class DataService {
       { name: 'Spring AOP', percentage: 95 },
       { name: 'Spring DATA', percentage: 95 },
       { name: 'Spring Batch', percentage: 90 },
-      { name: 'JWT', percentage: 95  },
+      { name: 'JWT', percentage: 95 },
       { name: 'MySQL', percentage: 95 },
       { name: 'MongoDB', percentage: 90 },
       { name: 'Kafka', percentage: 80 },
@@ -160,7 +158,7 @@ export class DataService {
         image: './assets/images/funtravelslogo.png',
       },
       {
-        title: 'My Portfolio',
+        title: 'Portfolio',
         type: 'A website that showcases my work, my projects, my skills, and experiences',
         description:
           'A website that showcases my work, my projects, my skills, and experiences.',

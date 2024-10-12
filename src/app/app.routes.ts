@@ -37,7 +37,7 @@ export const routes: Routes = [{
       externalUrl: '//www.github.com/WalidChrif/shopshop'
     }}
 ,{
-    path: 'My Portfolio',
+    path: 'Portfolio',
     canActivate: [RedirectGuard],
     component: RedirectGuard,
     data: {
