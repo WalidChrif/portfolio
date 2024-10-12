@@ -49,7 +49,7 @@ An e-commerce platform with a sleek user interface and shopping cart functionali
 
 ### 3. Portfolio Website  
 This portfolio itself, showcasing all my projects and educational achievements.
-![Portfolio](https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/shopshoplogo.png)
+![Portfolio](https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/portfolioimgcopy.jpg)
 
 ---
 
