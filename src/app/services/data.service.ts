@@ -12,7 +12,7 @@ export class DataService {
     phone: '+212660701821',
     email: 'walid.chrif111@gmail.com',
     website: '',
-    address: 'Lotissemnt Al Hamd Rue 01 Nr 36 Sidi Moumen, Casablanca',
+    address: 'Hay Moulay Rachid Group 5 Rue 7 N 15 , Casablanca',
     profileDescription:
       'A motivated Angular and Spring Boot developer, recently graduated with a solid foundation in full-stack development. ' +
       'Despite being a recent graduate, I have demonstrated strong expertise through hands-on projects, showcasing my ability ' +
@@ -163,7 +163,7 @@ export class DataService {
         description:
           'A website that showcases my work, my projects, my skills, and experiences.',
         technologies: ['HTML5', 'CSS3', 'Bootstrap', 'Angular'],
-        link: 'https://github.com/portfolio',
+        link: 'https://github.com/WalidChrif/portfolio',
         image: './assets/images/portfolioimgcopy.jpg',
       },
       {
