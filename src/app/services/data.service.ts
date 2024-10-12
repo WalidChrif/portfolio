@@ -163,7 +163,7 @@ export class DataService {
         description:
           'A website that showcases my work, my projects, my skills, and experiences.',
         technologies: ['HTML5', 'CSS3', 'Bootstrap', 'Angular'],
-        link: 'https://github.com/WalidChrif/walidchrif',
+        link: 'https://github.com/portfolio',
         image: './assets/images/portfolioimgcopy.jpg',
       },
       {
