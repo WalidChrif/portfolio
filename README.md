@@ -43,7 +43,7 @@ A vacation management platform built using **Angular** and **Spring Boot** to pr
 ### 2. SHop Shop  
 An e-commerce platform with a sleek user interface and shopping cart functionality.
 
-![Hop Shop](./portfolio-screenshot-4.jpeg)
+![Shop Shop](./portfolio-screenshot-4.jpeg)
 
 ---
 
@@ -63,7 +63,10 @@ This portfolio itself, showcasing all my projects and educational achievements.
 Feel free to explore my portfolio and reach out to me for collaboration or project inquiries!
 
 ### 4. Screenshots
-(https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/screenshots/portfolio-screenshot-1.jpeg)
+![Intro](https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/screenshots/portfolio-screenshot-1.jpeg)
+![AboutMe](https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/screenshots/portfolio-screenshot-2.jpeg)
+![Education](https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/screenshots/portfolio-screenshot-4.jpeg)
+![projects](https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/screenshots/portfolio-screenshot-5.jpeg)
 
 
 --
