@@ -62,8 +62,8 @@ This portfolio itself, showcasing all my projects and educational achievements.
 
 Feel free to explore my portfolio and reach out to me for collaboration or project inquiries!
 
-###Screenshots
-![alt text](http://url/to/img.png)
+### 4. Screenshots
+(https://github.com/WalidChrif/portfolio/blob/main/src/assets/images/screenshots/portfolio-screenshot-1.jpeg)
 
 
 --
